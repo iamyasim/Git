@@ -4,4 +4,8 @@ third line of code
 fourth line of code by dev2
 firth line of code by dev3
 sixth line code in dev branch
+<<<<<<< HEAD
 feature by dev1
+=======
+feature by dev2
+>>>>>>> dev2
